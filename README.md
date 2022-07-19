@@ -1,2 +1,2 @@
 # DS-vacancies-analysis
-analytics and recommendations of Data Science vacancies
+Data Science vacancies: analytics and recommendations
