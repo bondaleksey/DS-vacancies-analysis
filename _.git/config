@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[branch "main"]
+	remote = https://dagshub.com/bondaleksey/DS-vacancies-analysis.git
+	merge = refs/heads/main
