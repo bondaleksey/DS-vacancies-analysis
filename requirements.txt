@@ -12,3 +12,4 @@ python-dotenv>=0.5.1
 numpy
 pandas
 altair
+streamlit==1.1.1
